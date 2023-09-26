@@ -1,0 +1,23 @@
+.product-container{
+    padding: 20px;
+}
+
+.products-menu{
+    background-color: #C7C7C7;
+
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.products-menu a{
+    text-decoration: none;
+
+}
+
+.product-item{
+    color: black;
+    padding: 20px;
+}
+
+
